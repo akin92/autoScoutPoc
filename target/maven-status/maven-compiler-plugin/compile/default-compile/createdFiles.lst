@@ -1,0 +1,16 @@
+com\logicbig\example\model\SellerType.class
+com\logicbig\example\service\AutoScoutService.class
+com\logicbig\example\repository\ListingRepository.class
+com\logicbig\example\model\Contacts.class
+com\logicbig\example\util\ExcelParser.class
+com\logicbig\example\model\Listing.class
+com\logicbig\example\MsgService.class
+com\logicbig\example\repository\SellerRepository.class
+com\logicbig\example\MsgService$DefaultMsgService.class
+com\logicbig\example\controller\RestApiController.class
+com\logicbig\example\model\AvarageListingBySeller.class
+com\logicbig\example\Main.class
+com\logicbig\example\model\MakeDistribution.class
+com\logicbig\example\model\MostFiveContact.class
+com\logicbig\example\beans\ReportBean.class
+com\logicbig\example\repository\ContactsRepository.class
